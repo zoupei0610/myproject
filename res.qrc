@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>image/yichong.png</file>
+        <file>image/close20.png</file>
+        <file>image/close_window.png</file>
+    </qresource>
+</RCC>
